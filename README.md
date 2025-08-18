@@ -1,24 +1,10 @@
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<br clear="both">
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevinandersondev.kevinandersondev&"  />
-</div>
+<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNzMGNwaG90ZjQxaXl2Nmh2a2Vkb3A4YXM5emJxZnc5MnpwMXdiZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
 <h1 align="center">👋 Olá, seja bem-vindo ao meu perfil do GitHub!!</h1>
-
-###
-
-<br clear="both">
-
-<img align="right" height="130" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ4MmZjejRqYzIyOGhoaDFtdGgxcDVkZmx6YzdzbmI2Mm1pMnFkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif"  />
 
 ###
 
@@ -94,13 +80,5 @@
 ###
 
 <h2 align="left"></h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevinandersondev/kevinandersondev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevinandersondev/kevinandersondev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kevinandersondev/kevinandersondev/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
